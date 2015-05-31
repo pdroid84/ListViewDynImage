@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Meme title 1</item>
+        <item>Meme title 2</item>
+        <item>Meme title 3</item>
+        <item>Meme title 4</item>
+        <item>Meme title 5</item>
+        <item>Meme title 6</item>
+        <item>Meme title 7</item>
+        <item>Meme title 8</item>
+        <item>Meme title 9</item>
+        <item>Meme title 10</item>
+        <item>Meme title 11</item>
+        <item>Meme title 12</item>
+        <item>Meme title 13</item>
+        <item>Meme title 14</item>
+        <item>Meme title 15</item>
+        <item>Meme title 16</item>
+        <item>Meme title 17</item>
+        <item>Meme title 18</item>
+        <item>Meme title 19</item>
+        <item>Meme title 20</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Meme detail 1</item>
+        <item>Meme detail 2</item>
+        <item>Meme detail 3</item>
+        <item>Meme detail 4</item>
+        <item>Meme detail 5</item>
+        <item>Meme detail 6</item>
+        <item>Meme detail 7</item>
+        <item>Meme detail 8</item>
+        <item>Meme detail 9</item>
+        <item>Meme detail 10</item>
+        <item>Meme detail 11</item>
+        <item>Meme detail 12</item>
+        <item>Meme detail 13</item>
+        <item>Meme detail 14</item>
+        <item>Meme detail 15</item>
+        <item>Meme detail 16</item>
+        <item>Meme detail 17</item>
+        <item>Meme detail 18</item>
+        <item>Meme detail 19</item>
+        <item>Meme detail 20</item>
+    </string-array>
+</resources>
